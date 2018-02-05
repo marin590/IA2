@@ -1,0 +1,20 @@
+C:\Users\Marin\source\repos\IA2\IA2\bin\Debug\IA2.exe.config
+C:\Users\Marin\source\repos\IA2\IA2\bin\Debug\IA2.exe
+C:\Users\Marin\source\repos\IA2\IA2\bin\Debug\IA2.pdb
+C:\Users\Marin\source\repos\IA2\IA2\obj\Debug\IA2.csprojResolveAssemblyReference.cache
+C:\Users\Marin\source\repos\IA2\IA2\obj\Debug\IA2.Form1.resources
+C:\Users\Marin\source\repos\IA2\IA2\obj\Debug\IA2.Properties.Resources.resources
+C:\Users\Marin\source\repos\IA2\IA2\obj\Debug\IA2.csproj.GenerateResource.Cache
+C:\Users\Marin\source\repos\IA2\IA2\obj\Debug\IA2.csproj.CoreCompileInputs.cache
+C:\Users\Marin\source\repos\IA2\IA2\obj\Debug\IA2.exe
+C:\Users\Marin\source\repos\IA2\IA2\obj\Debug\IA2.pdb
+C:\Users\Marin\Documents\Visual Studio 2017\Projects\IA2\IA2\bin\Debug\IA2.exe.config
+C:\Users\Marin\Documents\Visual Studio 2017\Projects\IA2\IA2\bin\Debug\IA2.exe
+C:\Users\Marin\Documents\Visual Studio 2017\Projects\IA2\IA2\bin\Debug\IA2.pdb
+C:\Users\Marin\Documents\Visual Studio 2017\Projects\IA2\IA2\obj\Debug\IA2.csprojResolveAssemblyReference.cache
+C:\Users\Marin\Documents\Visual Studio 2017\Projects\IA2\IA2\obj\Debug\IA2.Form1.resources
+C:\Users\Marin\Documents\Visual Studio 2017\Projects\IA2\IA2\obj\Debug\IA2.Properties.Resources.resources
+C:\Users\Marin\Documents\Visual Studio 2017\Projects\IA2\IA2\obj\Debug\IA2.csproj.GenerateResource.Cache
+C:\Users\Marin\Documents\Visual Studio 2017\Projects\IA2\IA2\obj\Debug\IA2.csproj.CoreCompileInputs.cache
+C:\Users\Marin\Documents\Visual Studio 2017\Projects\IA2\IA2\obj\Debug\IA2.exe
+C:\Users\Marin\Documents\Visual Studio 2017\Projects\IA2\IA2\obj\Debug\IA2.pdb
